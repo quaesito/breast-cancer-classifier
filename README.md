@@ -1,6 +1,4 @@
-# breast-cancer-classifier
-
-All necessary files are stored at ai-progress/building_type
+## breast-cancer-classifier
 
 ## Sample Usage
 
@@ -18,7 +16,7 @@ python command.py evaluate -c config.json path/to/model.h5
 
 predict class
 ```
-python command.py predict -c config.json path/to/model.h5 dir/with/images/to/be/predicted/
+python command.py predict_class -c config.json path/to/model.h5 dir/with/images/to/be/predicted/
 ```
 
 
